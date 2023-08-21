@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(231, 201, 172);
+}
+
+select option {
+  color: black; /* Color del texto */
+  background-color: white; /* Color de fondo */
+}
